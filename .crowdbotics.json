@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.7.4",
+    "cookiecutter_context": {
+      "project_name": "Delicate Mountain",
+      "project_slug": "delicate_mountain_2",
+      "project_dash_slug": "delicate-mountain-2",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "vivekk@test.com",
+      "ssh_key_fingerprint": "SHA256:cDvlsWIUsUNYK95mQ9V7Il/CYNrYamo490t9QwYcaWY"
+    }
+  }
+}
